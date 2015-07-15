@@ -1,0 +1,5168 @@
+{
+    "data": [
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "188296324525457",
+                               "name": "Sandwich Shop"
+                               },
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5101\u5df745\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.043232127759,
+             "longitude": 121.5480584678
+             },
+             "name": "Coffee Alley Zhongxiao",
+             "id": "201806816498087"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "188296324525457",
+                               "name": "Sandwich Shop"
+                               },
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u6566\u5316\u5357\u8def\u4e00\u6bb5187\u5df742\u865f2F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0423908,
+             "longitude": 121.5515289
+             },
+             "name": "Coffee Alley Dunhua",
+             "id": "112295342181143"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5216\u5df732\u5f0418\u865f1F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.040032214648,
+             "longitude": 121.55197411384
+             },
+             "name": "Coffee Bene\u53f0\u5317\u5fe0\u5b5d\u5e97",
+             "id": "1471170959798502"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5ef6\u5409\u8857131\u5df733\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042824581711,
+             "longitude": 121.55560455314
+             },
+             "name": "COFFEE : STAND UP",
+             "id": "674352745954840"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "138756772860047",
+                               "name": "Cr\u00eaperie"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u6b63\u5340\u9928\u524d\u8def18\u865f2\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.04553384462,
+             "longitude": 121.51512926493
+             },
+             "name": "Coffee Alley Zhanqian",
+             "id": "142949805768414"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6566\u5316\u5357\u8def\u4e00\u6bb5187\u5df734\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042645225704,
+             "longitude": 121.55099665216
+             },
+             "name": "Coffee Tree Bistro",
+             "id": "145797155570063"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6c11\u751f\u6771\u8def\u56db\u6bb5\u4e94\u5341\u516d\u5df7\u4e00\u5f04\u4e09\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.057636615254,
+             "longitude": 121.55169042065
+             },
+             "name": "\u6c11\u751f\u516c\u5bd3 coffee essential",
+             "id": "223786921110766"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0432687067,
+             "longitude": 121.548035717
+             },
+             "name": "Coffee Alley",
+             "id": "286885068093690"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042300853961,
+             "longitude": 121.54937191442
+             },
+             "name": "Ueshima Coffee Lounge",
+             "id": "289342961182004"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "1578263382424714",
+                               "name": "Place to Eat/Drink"
+                               }
+                               ],
+             "location": {
+             "street": "\u6566\u5316\u5357\u8def\u4e00\u6bb5199\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0421696,
+             "longitude": 121.549263
+             },
+             "name": "\u4e0a\u5cf6\u73c8\u7432 Ueshima Coffee Lounge",
+             "id": "159353247484934"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5146\u5df71\u865f2F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04109,
+             "longitude": 121.5497284
+             },
+             "name": "U*ki Smile Coffee",
+             "id": "252672854838827"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5b89\u548c\u8def\u4e00\u6bb549\u5df711-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0386009,
+             "longitude": 121.5519104
+             },
+             "name": "Oklao Coffee \u6b50\u5ba2\u4f6c\u5b89\u548c\u7cbe\u54c1\u5496\u5561",
+             "id": "1512703935663008"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u5357\u4eac\u6771\u8def\u56db\u6bb552\u5df78\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.050940820397,
+             "longitude": 121.55362376743
+             },
+             "name": "\u597d\u4e8b\u5496\u5561:How's Coffee?",
+             "id": "265287596927936"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5167\u6e56\u8def\u4e00\u6bb5293\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "11444",
+             "latitude": 25.0823097,
+             "longitude": 121.5672684
+             },
+             "name": "Coffee Angel",
+             "id": "441309939376081"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u6c38\u548c\u5340\u535a\u611b\u885714\u865f",
+             "city": "Xinbei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "23441",
+             "latitude": 25.0157604,
+             "longitude": 121.516922
+             },
+             "name": "\u5496\u5561\u9ede\u6ef4 coffee drops",
+             "id": "1581983378738519"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04207733,
+             "longitude": 121.549023235
+             },
+             "name": "I.R. coffee",
+             "id": "202790116427168"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "188296324525457",
+                               "name": "Sandwich Shop"
+                               },
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u58fd\u8def12\u865f3\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.0356998,
+             "longitude": 121.5660019
+             },
+             "name": "Coffee Alley att4fun",
+             "id": "186922488032238"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.041501444444,
+             "longitude": 121.54749273222
+             },
+             "name": "Dante Coffee\u5fe0\u5b5d",
+             "id": "180902021979310"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5149\u5fa9\u5357\u8def292\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.039371251165,
+             "longitude": 121.55754641745
+             },
+             "name": "Doutor Coffee-\u7f85\u591a\u502b\u5496\u5561\u5149\u5fa9\u5e97",
+             "id": "475229629190164"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5927\u5b89\u8def\uff15\uff11\u5df7\uff12\uff15\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04319,
+             "longitude": 121.5474014
+             },
+             "name": "25.27 coffee",
+             "id": "155898914466750"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04258116691,
+             "longitude": 121.55104840428
+             },
+             "name": "\u6771\u5340Coffee Tree",
+             "id": "210549729011645"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "297681550307872",
+                               "name": "Supply &amp; Distribution Services"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fa9\u8208\u5357\u8def\u4e00\u6bb547\u5df77\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.043805985507,
+             "longitude": 121.54228288698
+             },
+             "name": "Coffercoffee",
+             "id": "101306186705505"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.039996683512,
+             "longitude": 121.55485861398
+             },
+             "name": "\u6e5b\u76e7\u5496\u5561 Zhanlu-coffee",
+             "id": "133309711936"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "164049010316507",
+                               "name": "Gastropub"
+                               },
+                               {
+                               "id": "178680352174443",
+                               "name": "Toy Store"
+                               },
+                               {
+                               "id": "162264673824073",
+                               "name": "Specialty Grocery Store"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6c11\u6b0a\u6771\u8def\u4e09\u6bb5146\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.062138788391,
+             "longitude": 121.54726587104
+             },
+             "name": "\u92f3 \uff08coffee & collectibles\uff09",
+             "id": "627280844001891"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u4fe1\u7fa9\u8def\u56db\u6bb596\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.033932945492,
+             "longitude": 121.55433313101
+             },
+             "name": "\u6021\u5ba2\u5496\u5561-Ikari Coffee",
+             "id": "194258010587386"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u6c11\u6b0a\u6771\u8def\u4e09\u6bb560\u5df713\u5f0441\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0607395,
+             "longitude": 121.5435867
+             },
+             "name": "Astar",
+             "id": "119750551443580"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e8c\u6bb5200\u5df716\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0227795,
+             "longitude": 121.5475922
+             },
+             "name": "BOOM coffee roasters",
+             "id": "1634784280092427"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5149\u5fa9\u5357\u8def420\u5df71\u5f048\u865f1\u6a13 No. 8, Alley 1, Lane 420, Guang Fu S. Rd., Daan District",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0362091,
+             "longitude": 121.5568314
+             },
+             "name": "Rosie Coffee",
+             "id": "245933525605901"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u9577\u5b89\u6771\u8def\u4e8c\u6bb5219\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.04833510018,
+             "longitude": 121.54474868411
+             },
+             "name": "Gloria Jean's Coffees \u9ad8\u6a02\u96c5\u5496\u5561 \u53f0\u5317\u9577\u5b89\u5e97",
+             "id": "477480019002139"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb548\u5df75\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0373192,
+             "longitude": 121.547142
+             },
+             "name": "\u8def\u6613\u838e Louisa Coffee\u4ec1\u611b\u5e97",
+             "id": "405926826209229"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5927\u5b89\u8def\u4e00\u6bb519\u5df78\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.044398439115,
+             "longitude": 121.54639415312
+             },
+             "name": "50 Fifty Coffeehouse & Espresso Bar",
+             "id": "357842864351531"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u5fe0\u5b5d\u6771\u8def\u4e8c\u6bb593-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.041374092632,
+             "longitude": 121.55460373221
+             },
+             "name": "Barista Coffee",
+             "id": "380959561961180"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u6c11\u6b0a\u6771\u8def\u4e09\u6bb5103\u5df73\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.062534824958,
+             "longitude": 121.54506645966
+             },
+             "name": "Dodiddone Coffee Research",
+             "id": "1481081195506528"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "192661127431931",
+                               "name": "Wine Bar"
+                               },
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u5149\u5fa9\u5357\u8def415\u5df74\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.037340228589,
+             "longitude": 121.55788687942
+             },
+             "name": "Balzac Coffee & Wine   - \u5df4\u723e\u624e\u514b",
+             "id": "1496354520584517"
+             },
+             {
+             "category": "Food/beverages",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "199732070036794",
+                               "name": "Artistic Services"
+                               },
+                               {
+                               "id": "210881938937928",
+                               "name": "Performance Venue"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u5149\u5fa9\u5317\u8def120\u5df718\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0508995,
+             "longitude": 121.5570908
+             },
+             "name": "\u4e00\u6587\u5927\u5b78 Penny University Coffee shop",
+             "id": "1592184264387182"
+             },
+             {
+             "category": "Food/beverages",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "150108431712141",
+                               "name": "Food &amp; Grocery"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5b89\u548c\u8def\u4e00\u6bb5141\u5df715\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10680",
+             "latitude": 25.0339203,
+             "longitude": 121.5533295
+             },
+             "name": "\u5c0a\u69ae\u7cbe\u54c1\u5496\u5561-Supreme Honor Specialty Coffee",
+             "id": "516800305042058"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "360320934014496",
+                               "name": "Lifestyle Services"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u91d1\u9580\u88575-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.022901485,
+             "longitude": 121.52453683525
+             },
+             "name": "NUKI Coffee",
+             "id": "1558589024378939"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u677e\u6c5f\u8def90\u5df73-2\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.050568124469,
+             "longitude": 121.53187535572
+             },
+             "name": "TankQ Cafe & Bar",
+             "id": "862451900472181"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5fa9\u8208\u5357\u8def\u4e8c\u6bb5339\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.023746898908,
+             "longitude": 121.54331676975
+             },
+             "name": "Rufous Caf\u00e9",
+             "id": "273505522737286"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5177\u5df721\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10690",
+             "latitude": 25.043173665234,
+             "longitude": 121.55052399268
+             },
+             "name": "Stayreal Cafe",
+             "id": "218549964850557"
+             },
+             {
+             "category": "Food/beverages",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               },
+                               {
+                               "id": "200863816597800",
+                               "name": "Ice Cream Parlor"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fa9\u8208\u5357\u8def\u4e00\u6bb5123\u865f2\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.043404471667,
+             "longitude": 121.54375223571
+             },
+             "name": "C.C.KISS",
+             "id": "1622781587945291"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5efa\u570b\u5317\u8def\u4e8c\u6bb5258\u5df72\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.062029286,
+             "longitude": 121.53697575
+             },
+             "name": "\u6e29\u5496\u5561 wen coffee",
+             "id": "859180150819610"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04224854,
+             "longitude": 121.54757422
+             },
+             "name": "AUNT STELLA COFFEE-SOGO\u6566\u5357\u5e97",
+             "id": "417286221621064"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb548\u5df711\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0370407,
+             "longitude": 121.5471268
+             },
+             "name": "\u8272\u5496\u5561 - Color Coffee \u4ec1\u611b\u5713\u74b0\u5e97",
+             "id": "1380753762169272"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u5c71\u5340\u65b0\u751f\u5317\u8def\u4e00\u6bb511-5\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.046364315845,
+             "longitude": 121.53232060242
+             },
+             "name": "\u5c0f\uff0c\u9ed1\u73c8\u7432",
+             "id": "1553194991574894"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "Dunhua North Road Lane 4 Alley 25",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.050132737815,
+             "longitude": 121.54616751314
+             },
+             "name": "\u6566\u5316\u570b\u4e2d\u5f8c\u9762\u90a3\u5bb6\u64cd\u5834\u5496\u5561",
+             "id": "171511613018706"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "178680352174443",
+                               "name": "Toy Store"
+                               },
+                               {
+                               "id": "203462172997785",
+                               "name": "Tea Room"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5357\u4eac\u6771\u8def\u4e94\u6bb5167\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.051514715241,
+             "longitude": 121.56308309103
+             },
+             "name": "Steiff Coffee",
+             "id": "690337671025368"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02 \u5927\u5b89\u5340 \u8f9b\u4ea5\u8def\u4e00\u6bb5 136\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.044169095181,
+             "longitude": 121.53073725445
+             },
+             "name": "Galette \u845b\u6a02\u8482\u5496\u5561\u9928",
+             "id": "585542921464134"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u91d1\u83ef\u8857243\u5df71\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10649",
+             "latitude": 25.030097065784,
+             "longitude": 121.53053414359
+             },
+             "name": "Caffee Libero \u5496\u5561 \u5c0f\u81ea\u7531",
+             "id": "373023459421182"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u6c11\u6b0a\u897f\u8def3\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.0629597,
+             "longitude": 121.522171
+             },
+             "name": "Gloria Jean's Coffees \u9ad8\u6a02\u96c5\u5496\u5561 \u53f0\u5317\u6c11\u6b0a\u5e97",
+             "id": "118430998313967"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "1900",
+                               "name": "Restaurant/Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u516b\u5fb7\u8def\u4e8c\u6bb5437\u5df72\u5f046\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.048782130902,
+             "longitude": 121.54676295686
+             },
+             "name": "\u661f\u7a7a\u5496\u5561 starry night coffee",
+             "id": "749937868430581"
+             },
+             {
+             "category": "Food/beverages",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "192647794097278",
+                               "name": "Home Decor"
+                               },
+                               {
+                               "id": "150108431712141",
+                               "name": "Food &amp; Grocery"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5ef6\u5409\u8857228\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.037052420808,
+             "longitude": 121.5555389514
+             },
+             "name": "CLove Boutique Coffee & CLove Collection \u5496\u5561.\u54c1\u5473.\u50a2\u4fec",
+             "id": "169478079814867"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u5c71\u5340\u5317\u5b89\u8def621\u5df749\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.082739818,
+             "longitude": 121.546721168
+             },
+             "name": "\u8def\u6613\u838e\u5496\u5561 Louisa Coffee - \u5927\u76f4\u5e97",
+             "id": "692676664211957"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u7063\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5609\u8208\u8857309\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "11054",
+             "latitude": 25.0232391,
+             "longitude": 121.5546112
+             },
+             "name": "\u914d\u500b\u5496\u5561\u5427\uff01PEG Coffee",
+             "id": "141369941337"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "1900",
+                               "name": "Restaurant/Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u4fe1\u7fa9\u5340\u6c38\u5409\u8def30\u5df7158\u5f049\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.042345048431,
+             "longitude": 121.56854651737
+             },
+             "name": "\u5473\u65c5 vojago",
+             "id": "440173942752719"
+             },
+             {
+             "category": "Food/beverages",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4ec1\u611b\u8def\u56db\u6bb5151\u5df711\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.038751652883,
+             "longitude": 121.55189838906
+             },
+             "name": "PirateWalker Handmade Coffee Bar",
+             "id": "319439258207160"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u5bcc\u9326\u8857403\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.060768443395,
+             "longitude": 121.56000099945
+             },
+             "name": "Stay & Go Coffee Company",
+             "id": "866524353371958"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "180816211956170",
+                               "name": "Cultural Gifts Store"
+                               }
+                               ],
+             "location": {
+             "street": "\u6c11\u65cf\u897f\u8def31\u5df718\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.069156687804,
+             "longitude": 121.51958074794
+             },
+             "name": "\u5561\u5275\u5de5\u5ee0 Future Factory",
+             "id": "563677703715402"
+             },
+             {
+             "category": "Media/news/publishing",
+             "category_list": [
+                               {
+                               "id": "161467220570897",
+                               "name": "Book &amp; Magazine Distribution"
+                               }
+                               ],
+             "location": {
+             "street": "\u65b0\u5e97\u5340\u5317\u65b0\u8def\u4e09\u6bb5217\u865f1\u6a13",
+             "city": "Xinbei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "231",
+             "latitude": 25.059626477525,
+             "longitude": 121.54626272488
+             },
+             "name": "Coffee t&i Taiwan",
+             "id": "463859417036890"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "1900",
+                               "name": "Restaurant/Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u7f85\u65af\u798f\u8def3\u6bb5128\u5df79\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0204803764,
+             "longitude": 121.5270048912
+             },
+             "name": "\u53c3\u5dee_\u9918\u6ce2\u672a\u4e86 Remember Cafe",
+             "id": "440075759476982"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5317\u8def\u4e09\u6bb555\u5df72\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.0678806,
+             "longitude": 121.5233612
+             },
+             "name": "J. Coffee School",
+             "id": "1454099318160973"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5245\u865fB1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.039641869138,
+             "longitude": 121.54918887035
+             },
+             "name": "Starbucks Coffee\u7d71\u4e00\u661f\u5df4\u514b - \u6566\u8aa0\u9580\u5e02",
+             "id": "472947696108501"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u6c11\u751f\u6771\u8def\u4e94\u6bb569\u5df75\u53f7",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10572",
+             "latitude": 25.0591297,
+             "longitude": 121.5581284
+             },
+             "name": "CURRY & Coffee by Fujin Tree",
+             "id": "584443955030789"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u5317\u5b89\u8def621\u5df746\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.0828304,
+             "longitude": 121.5466232
+             },
+             "name": "Gentle Lady Coffee",
+             "id": "1404755079789157"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "187224924655149",
+                               "name": "Theme Park"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5181\u5df740\u5f042\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041302490278,
+             "longitude": 121.54881526459
+             },
+             "name": "\u919c\u6bd4\u982d\u7684\u79d8\u5bc6\u82b1\u5712\u8f15\u98df\u5496\u5561",
+             "id": "1530971740507451"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "no.58 heng yang rd",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.042237159706,
+             "longitude": 121.51211578846
+             },
+             "name": "\u5168\u7965\u8336\u838a",
+             "id": "560457713971363"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "164243073639257",
+                               "name": "Hotel"
+                               },
+                               {
+                               "id": "187827497907070",
+                               "name": "Bakery"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u81fa\u5317\u5e02\u5fe0\u5b5d\u897f\u8def\u4e00\u6bb543\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.0462208,
+             "longitude": 121.5181732
+             },
+             "name": "\u5929\u6210\u5927\u98ef\u5e97 Cosmos Hotel",
+             "id": "186004984770998"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "200600219953504",
+                               "name": "Shopping &amp; Retail"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u627f\u5fb7\u8def\u4e09\u6bb551\u5df718\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.063967573567,
+             "longitude": 121.51887332155
+             },
+             "name": "\u70d8\u7119\u5bb6 Roasters",
+             "id": "172803909587997"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5408\u5df713\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0373192,
+             "longitude": 121.5569077
+             },
+             "name": "Moi caf\u00e9",
+             "id": "1591715957777576"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5ef6\u58fd\u8857329\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.056667035596,
+             "longitude": 121.56023166943
+             },
+             "name": "All Day Roasting Company",
+             "id": "587693204682079"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               },
+                               {
+                               "id": "110107385737667",
+                               "name": "New American Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5167\u6e56\u8def\u4e00\u6bb5367\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "114",
+             "latitude": 25.0821304,
+             "longitude": 121.5695572
+             },
+             "name": "Housebistro \u597d\u9069\u5eda\u574a",
+             "id": "720387674713003"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "161467220570897",
+                               "name": "Book &amp; Magazine Distribution"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u7f85\u65af\u798f\u8def\u4e00\u6bb5119\u5df73\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.030539207559,
+             "longitude": 121.5204437809
+             },
+             "name": "\u751f\u6d3b\u5728\u4ed6\u65b9 elsewhere cafe",
+             "id": "637605446340194"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u81fa\u5317\u5e02\u4e2d\u5c71\u5340\u65b0\u751f\u5317\u8def\u4e00\u6bb540\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104 ",
+             "latitude": 25.04623795636,
+             "longitude": 121.53170101213
+             },
+             "name": "KiOSK",
+             "id": "1531738013707681"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u81e8\u6c82\u885727\u5df74\u4e4b1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.040993922908,
+             "longitude": 121.53058253098
+             },
+             "name": "\u7279\u6709\u7a2e\u5546\u884c",
+             "id": "213510342001985"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5170\u5df76\u5f0410\u865f1\u30012\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.040953640488,
+             "longitude": 121.55024402437
+             },
+             "name": "Drip Cafe \u597d\u6ef4\u5496\u5561 - \u5fe0\u5b5d\u5e97",
+             "id": "537822489652849"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "139750396088115",
+                               "name": "Musical Instrument Store"
+                               }
+                               ],
+             "location": {
+             "street": "\u901a\u5316\u8857170\u5df77\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0282165,
+             "longitude": 121.5529175
+             },
+             "name": "Input\u97f3\u92ea",
+             "id": "1423774977885420"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "199833073363963",
+                               "name": "Liquor Store"
+                               }
+                               ],
+             "location": {
+             "street": "No.13-1, Aly. 32, Ln. 216, Sec. 4, Zhongxiao E. Rd., Da\u2019an Dist., Taipei City 106, Taiwan",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04002,
+             "longitude": 121.5521622
+             },
+             "name": "HoWINE & CAFE",
+             "id": "148406221946293"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "193831710644458",
+                               "name": "Italian Restaurant"
+                               },
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4fe1\u7fa9\u5340\u677e\u58fd\u8def22\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.0356998,
+             "longitude": 121.5679932
+             },
+             "name": "\u66c9\u78ba\u5e78 Lighthouse \u7fa9\u5f0f\u6599\u7406\u9910\u5ef3",
+             "id": "507652605924875"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u4e94\u6bb5492\u5df714\u865f2\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.040376677158,
+             "longitude": 121.57836876678
+             },
+             "name": "\u5409\u5370",
+             "id": "1426392707655584"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "200600219953504",
+                               "name": "Shopping &amp; Retail"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5609\u7fa9\u5e02\u6771\u5340\u8208\u696d\u6771\u8def156\u865f",
+             "city": "Chiayi",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "600",
+             "latitude": 25.042153982222,
+             "longitude": 121.54926183111
+             },
+             "name": "\u4e0a\u5cf6\u5496\u5561",
+             "id": "736827283075090"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u7063\u53f0\u5317\u5e02\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5157\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.043749619975,
+             "longitude": 121.54923461246
+             },
+             "name": "Churro'K \u557e\u62ff\u68d2\u5c08\u8ce3\u5e97",
+             "id": "1408471659381862"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5fe0\u5b5d\u6771\u8def4\u6bb5553\u5df722\u5f0451-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.043317236338,
+             "longitude": 121.56337495272
+             },
+             "name": "\u7e6a\u672c\u5496\u5561\uff5c\u5b09\u3005caf\u00e9",
+             "id": "519950521428504"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197227066968500",
+                               "name": "Continental Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u842c\u83ef\u5340\u6210\u90fd\u8def14\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "108",
+             "latitude": 25.0424099,
+             "longitude": 121.5070038
+             },
+             "name": "\u9580\u5361\u8fea\u9910\u5ef3",
+             "id": "157395470985923"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5216\u5df719\u5f0416\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0402203,
+             "longitude": 121.5538864
+             },
+             "name": "Uznaomom\u674f\u6843\u9b06\u9905\u5c4b",
+             "id": "517980451595660"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u540c\u5340\u8d64\u5cf0\u885741\u5df713\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.0548801,
+             "longitude": 121.5203171
+             },
+             "name": "R9 Cafe",
+             "id": "193605237331031"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def4\u6bb5205\u5df729\u5f047\u865f\u4e4b3",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10686",
+             "latitude": 25.02867414,
+             "longitude": 121.54576898
+             },
+             "name": "Polar Caf\u00e9",
+             "id": "1551230145164955"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               },
+                               {
+                               "id": "192661127431931",
+                               "name": "Wine Bar"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5101\u5df727\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042845641519,
+             "longitude": 121.54827438164
+             },
+             "name": "Herban Kitchen & Bar \u4e8c\u672c\u9910\u5ef3",
+             "id": "635465566501225"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "193831710644458",
+                               "name": "Italian Restaurant"
+                               },
+                               {
+                               "id": "180256082015845",
+                               "name": "Pizza Place"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u8d64\u5cf0\u88578\u5df74\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.0538292,
+             "longitude": 121.5191269
+             },
+             "name": "Solo Pizza Napoletana \u53f0\u5317\u5e97",
+             "id": "432920236889058"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               },
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5553\u5df726\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.0433998,
+             "longitude": 121.5628967
+             },
+             "name": "Dripcoffee, \u597d\u6ef4\u5496\u5561",
+             "id": "145313275667004"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               },
+                               {
+                               "id": "162648480454674",
+                               "name": "Fairground"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u7f85\u65af\u798f\u8def\u56db\u6bb51\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10617",
+             "latitude": 25.016325,
+             "longitude": 121.5330582
+             },
+             "name": "\u8494\u54c1 Life Seeding",
+             "id": "375135476022848"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u7a3b\u57d5",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.059290780344,
+             "longitude": 121.51342620859
+             },
+             "name": "\u661f\u5df4\u514b \u4fdd\u5b89\u9580\u5e02 - \u5927\u7a3b\u57d5\u5927\u6a13",
+             "id": "340513099457329"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "187153754656815",
+                               "name": "Dessert Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u56db\u6bb545\u865f2F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041667265607,
+             "longitude": 121.54481631583
+             },
+             "name": "Afternoon Tea\u5fe0\u5b5dSOGO",
+             "id": "194731923887693"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u6eab\u5dde\u885775\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0203495,
+             "longitude": 121.5330505
+             },
+             "name": "PICNIC CAFE (\u91ce\u9910\u5496\u5561\uff09",
+             "id": "121084864580055"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "1578263382424714",
+                               "name": "Place to Eat/Drink"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u540c\u5340\u5357\u4eac\u897f\u8def18\u5df74\u5f046-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.052489839015,
+             "longitude": 121.51976087369
+             },
+             "name": "\u5357\u897f\u516d\u865f\u516c\u5bd3cafe",
+             "id": "1449881915275537"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u5e02\u6c11\u5927\u9053\u4e09\u6bb52\u865f5\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.045342135,
+             "longitude": 121.531314015
+             },
+             "name": "\u9e79\u82b1\u751f\u9ed1\u81a0\u5496\u5561\u9928  Salt Peanuts Vinyl Cafe",
+             "id": "1116648601695176"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb591\u5df723\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0386505,
+             "longitude": 121.5466232
+             },
+             "name": "Cross Caf'e \u514b\u52de\u65af\u5496\u5561\u5e97",
+             "id": "231603373633836"
+             },
+             {
+             "category": "Arts/entertainment/nightlife",
+             "category_list": [
+                               {
+                               "id": "133436743388217",
+                               "name": "Arts &amp; Entertainment"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u901a\u5316\u8857170\u5df77\u865f1\u6a13",
+             "city": "Taiwan",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.02641,
+             "longitude": 121.54388
+             },
+             "name": "iNPUT Caf\u00e9 \u97f3\u92ea\u5496\u5561",
+             "id": "292371767607604"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u5c71\u5340\u5357\u4eac\u6771\u8def\u4e8c\u6bb5163\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.052044949376,
+             "longitude": 121.53600235828
+             },
+             "name": "Tutti Cafe-\u5357\u4eac\u5e97",
+             "id": "393667377385919"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u65b0\u4e2d\u88576\u5df77\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0583591,
+             "longitude": 121.5609131
+             },
+             "name": "\u516d\u4e01\u76eecafe",
+             "id": "415287561835501"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u5149\u5fa9\u5357\u8def180\u5df76\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10694",
+             "latitude": 25.0425376,
+             "longitude": 121.5571892
+             },
+             "name": "Viia Caffe",
+             "id": "289800237893319"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u58fd\u8def12\u865f2\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.03498804782,
+             "longitude": 121.56643960713
+             },
+             "name": "ATT\u8df3\u821e\u9999\u6c34",
+             "id": "259693460836846"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "187425207958280",
+                               "name": "Burger Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4fe1\u7fa9\u5340\u57fa\u9686\u8def\u4e8c\u6bb512\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.032363903182,
+             "longitude": 121.55898462276
+             },
+             "name": "Pond Burger Cafe",
+             "id": "330810196929931"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5ef6\u5409\u8857137\u5df77\u5f043-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042330615,
+             "longitude": 121.5549999375
+             },
+             "name": "Murmur Cafe",
+             "id": "647553305365286"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5eab\u502b\u885751\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.07202078141,
+             "longitude": 121.51868442057
+             },
+             "name": "\u7d71\u4e00\u661f\u5df4\u514b-\u5eab\u502b\u627f\u5fb7\u9580\u5e02",
+             "id": "547689372031175"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "149803325077018",
+                               "name": "American Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u627f\u5fb7\u8def\u4e00\u6bb51\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.049141332535,
+             "longitude": 121.51757700915
+             },
+             "name": "N.Y. Bagels Cafe \u4eac\u7ad9\u5e97",
+             "id": "185528418152299"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5b89\u5c45\u88578\u5df719\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.021865575167,
+             "longitude": 121.55450790307
+             },
+             "name": "\u624b\u00b7\u5009 Cafe/Hair/Paint/Metal",
+             "id": "979119565439192"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5317\u8def\u4e8c\u6bb518\u865f",
+             "city": "Chungshan",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.0532799,
+             "longitude": 121.5221634
+             },
+             "name": "\u5149\u9ede\u73c8\u7432\u6642\u5149 Spot Caf\u00e9 Lumi\u00e8re",
+             "id": "101601579927911"
+             },
+             {
+             "category": "Landmark",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               },
+                               {
+                               "id": "203462172997785",
+                               "name": "Tea Room"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u5c71\u5340\u5357\u4eac\u6771\u8def\u4e8c\u6bb595\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.05241134595,
+             "longitude": 121.53211831079
+             },
+             "name": "\u53e4\u5178\u73ab\u7470\u5712-\u5357\u4eac\u5e97",
+             "id": "185739164780058"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u6c38\u5eb7\u885737\u5df716\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.030840811241,
+             "longitude": 121.52989903321
+             },
+             "name": "\u70cf\u9d09\u5496\u5561",
+             "id": "242368579290118"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "192111490806699",
+                               "name": "Florist"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u6c11\u751f\u6771\u8def\u4e94\u6bb5137\u5df74\u5f0422\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.059754920714,
+             "longitude": 121.56264484643
+             },
+             "name": "\u6842\u820d\u82b1\u623f",
+             "id": "797766233602301"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u65b0\u5149\u4e09\u8d8a\u4fe1\u7fa9\u65b0\u5929\u5730A4 \u9928B1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10680",
+             "latitude": 25.039918482789,
+             "longitude": 121.56809430518
+             },
+             "name": "Knutsen Cafe Petite",
+             "id": "313719248790369"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4fe1\u7fa9\u8def4\u6bb530\u5df720\u865f1\u6a13, Taipei, Taiwan",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0324993,
+             "longitude": 121.544548
+             },
+             "name": "\u7aa9\u8457 perch cafe",
+             "id": "122809104442576"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u56db\u7dad\u8def44\u5df712\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0354805,
+             "longitude": 121.5474014
+             },
+             "name": "Lapensee",
+             "id": "616031851752420"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def5\u6bb58\u865f4F&B2",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.040603156416,
+             "longitude": 121.56431097148
+             },
+             "name": "Aranzi Cafe \u963f\u6717\u57fa\u5496\u5561\u962a\u6025\u5e97",
+             "id": "366871763431406"
+             },
+             {
+             "category": "Shopping/retail",
+             "category_list": [
+                               {
+                               "id": "200600219953504",
+                               "name": "Shopping &amp; Retail"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u5bcc\u9326\u8857348\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.060612942285,
+             "longitude": 121.55871890354
+             },
+             "name": "de'A",
+             "id": "388421547935824"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u6c11\u751f\u6771\u8def\u4e09\u6bb5113\u5df721\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10546",
+             "latitude": 25.05930239875,
+             "longitude": 121.54624761875
+             },
+             "name": "GABEE.",
+             "id": "133990196942"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "1578263382424714",
+                               "name": "Place to Eat/Drink"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u65b0\u751f\u5357\u8def\u4e09\u6bb576\u5df75\u865f1\u6a13",
+             "city": "Panchiaochen",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.019111536412,
+             "longitude": 121.53344405181
+             },
+             "name": "Piglet\u5f7c\u514b\u857e\u53cb\u5584\u5496\u5561\u9928",
+             "id": "1546776592268818"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u6566\u5316\u5357\u8def\u4e00\u6bb5177\u5df748\u865fB1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.042643874713,
+             "longitude": 121.55184551919
+             },
+             "name": "The Lobby Of Simple Kaffa | Hotel V",
+             "id": "134924723252703"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u5ef6\u58fd\u8857129\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0570507,
+             "longitude": 121.5644684
+             },
+             "name": "\u6a02\u6a02\u5496\u5561",
+             "id": "387212010154"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u540c\u5340\u6c11\u65cf\u897f\u8def33\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "103",
+             "latitude": 25.068663553643,
+             "longitude": 121.51964527287
+             },
+             "name": "\u6a39\u6a02\u96c6 Treellage Life Cafe",
+             "id": "106663212772309"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               },
+                               {
+                               "id": "187425207958280",
+                               "name": "Burger Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u65b0\u751f\u5357\u8def\u4e09\u6bb576\u5df716\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.01931,
+             "longitude": 121.5329819
+             },
+             "name": "Apple Diner",
+             "id": "277085965092"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u5c71\u5340\u4e2d\u5c71\u5317\u8def2\u6bb520\u5df71-4\u865f2\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.05528658,
+             "longitude": 121.52212162
+             },
+             "name": "\u5149\u4e00\u5496\u5561",
+             "id": "714350501993795"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u4ec1\u8def28\u865f1F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.040094348664,
+             "longitude": 121.56759212472
+             },
+             "name": "a3 bar&restaurant/Bellavita",
+             "id": "197716063585538"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u7f85\u65af\u798f\u8def3\u6bb5269\u5df774\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.021055801261,
+             "longitude": 121.53188608456
+             },
+             "name": "Pica Pica Caf\u00e9  \u559c\u9d72\u5496\u5561",
+             "id": "608436872541852"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "180256082015845",
+                               "name": "Pizza Place"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u6b63\u5340\u6fdf\u5357\u8def\u4e8c\u6bb569\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0403099,
+             "longitude": 121.532341
+             },
+             "name": "\u5824\u8afe\u6bd4\u85a9\u6fdf\u5357\u5e97 Tino's pizza Caf\u00e9",
+             "id": "281198055422770"
+             },
+             {
+             "category": "Attractions/things to do",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u516b\u5fb7\u8def\u4e00\u6bb51\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.043914862628,
+             "longitude": 121.52854405212
+             },
+             "name": "FabCafe Taipei",
+             "id": "571554066209757"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u9ad8\u8def11\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.039231144859,
+             "longitude": 121.56545339476
+             },
+             "name": "\u8aa0\u54c1\u4fe1\u7fa9Eslite Tea Room",
+             "id": "138831192848883"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "Wuchang Street Section 2",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "108",
+             "latitude": 25.044487082662,
+             "longitude": 121.50676914154
+             },
+             "name": "\u6771\u4eac\u306e\u6050\u6016\u5b78\u5712",
+             "id": "136061286602695"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "1 TONGHUA STREET LANE 143",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.028948047311,
+             "longitude": 121.55405129689
+             },
+             "name": "WA Sweet \u624b\u5f04\u751c\u9ede 1\u865f\u5e97",
+             "id": "304721129661327"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5357\u6e2f\u5340\u6606\u967d\u88571\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "115",
+             "latitude": 25.053994650621,
+             "longitude": 121.59239694884
+             },
+             "name": "PUSH ONE",
+             "id": "1486332944950593"
+             },
+             {
+             "category": "Food/grocery",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u5c71\u5340\u5fa9\u8208\u5317\u8def500\u865f1F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10476",
+             "latitude": 25.065636345332,
+             "longitude": 121.54414376517
+             },
+             "name": "\u597d\u610f\u601dCaf\u00e9",
+             "id": "598473586956652"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u7d39\u8208\u5317\u8857\u4e09\u865f\u4e00\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10049",
+             "latitude": 25.0447598,
+             "longitude": 121.5252991
+             },
+             "name": "Cafe Philo \u6155\u54f2\u5496\u5561",
+             "id": "210749825660307"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "179943432047564",
+                               "name": "Concert Venue"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fa9\u8208\u5357\u8def\u4e00\u6bb5107\u5df75\u5f0418\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0441608,
+             "longitude": 121.5451889
+             },
+             "name": "A House",
+             "id": "351220174899"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u7f85\u65af\u798f\u8def3\u6bb5284\u5df72\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10090",
+             "latitude": 25.016327156539,
+             "longitude": 121.53204724984
+             },
+             "name": "\u6e5b\u76e7\u5496\u5561\u53f0\u5927\u624b\u6c96\u9928",
+             "id": "129366607213420"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6c11\u751f\u6771\u8def\u4e09\u6bb588\u5df74\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.0661073,
+             "longitude": 121.5780308
+             },
+             "name": "Jocolatte",
+             "id": "269611729837382"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "164049010316507",
+                               "name": "Gastropub"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "10352 \u53f0\u5317\u5e02\u5927\u540c\u5340\u5efa\u6cf0\u91cc\u5357\u4eac\u897f\u8def18\u5df76\u5f046\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10352 ",
+             "latitude": 25.0519409,
+             "longitude": 121.5199432
+             },
+             "name": "tame moose",
+             "id": "1566047310275894"
+             },
+             {
+             "category": "Sports venue",
+             "category_list": [
+                               {
+                               "id": "184405378265823",
+                               "name": "Gym"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u7f85\u65af\u798f\u8def\u4e8c\u6bb535\u5df713\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0279598,
+             "longitude": 121.5227737
+             },
+             "name": "BeeFit\u8702\u904b\u52d5",
+             "id": "924141260933004"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u548c\u5e73\u6771\u8def\u4e00\u6bb587-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.027144489914,
+             "longitude": 121.52560086872
+             },
+             "name": "Sugar Man Cafe",
+             "id": "735173953190365"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u83ef\u8def2\u6bb575\u5df740\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.0334206,
+             "longitude": 121.5076523
+             },
+             "name": "\u6c9b\u6d1b\u745f\u81ea\u5bb6\u7119\u714e\u5496\u5561\u5e97",
+             "id": "117818591610584"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u6a02\u696d\u885717\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0238209,
+             "longitude": 121.5500183
+             },
+             "name": "\u5979\u4ed6\u5c0f\u9910\u9928 \u6a02\u696d\u5e97 Bistro Together",
+             "id": "230401280469680"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "180256082015845",
+                               "name": "Pizza Place"
+                               }
+                               ],
+             "location": {
+             "street": "\u6176\u57ce\u885716\u5df716\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0529206,
+             "longitude": 121.5463932
+             },
+             "name": "Cin Cin Osteria",
+             "id": "810898085630270"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4fe1\u7fa9\u5340\u6c38\u5409\u8def30\u5df7177\u5f046\u865f (No.6, Al.177, Ln.30, Yongji Rd., Xinyi District)",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.041614853698,
+             "longitude": 121.56889009144
+             },
+             "name": "\u4e0a\u6a13\u770b\u770bArthere Cafe",
+             "id": "474371599253720"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u4e09\u6bb552\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041888069893,
+             "longitude": 121.5353758236
+             },
+             "name": "\u4f2f\u6717\u5496\u5561\u79d1\u5927\u5e97",
+             "id": "215275308533008"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5161\u5df776\u865f\uff0e\u96b1\u533f\u7684\u89d2\u843d",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0433807,
+             "longitude": 121.5526886
+             },
+             "name": "Single Origin Espresso & Roast",
+             "id": "272203319579002"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u58fd\u8def11\u865fB1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.037633332598,
+             "longitude": 121.56729179433
+             },
+             "name": "Melange Cafe A11",
+             "id": "224011907725092"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u516b\u5fb7\u8def2\u6bb5437\u5df72\u5f046\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0469436,
+             "longitude": 121.5483674
+             },
+             "name": "\u96e2\u5883\u5496\u5561cafe Departure",
+             "id": "280798568772249"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4e2d\u5c71\u5340\u4f0a\u901a\u885766\u865f\u4e4b1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.0526295,
+             "longitude": 121.5346985
+             },
+             "name": "\u5496\u5561\u9017 Cafe Dog",
+             "id": "421088328034012"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u540c\u5340\u627f\u5fb7\u8def\u4e00\u6bb5\u4e00\u865f\u4e00\u6a13(\u4eac\u7ad9\u767e\u8ca8)",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.0493393,
+             "longitude": 121.5168228
+             },
+             "name": "Agnes B. Cafe",
+             "id": "205549386269365"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u5357\u4eac\u6771\u8def\u4e00\u6bb542\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.052215985238,
+             "longitude": 121.52431992
+             },
+             "name": "Kuma Cafe",
+             "id": "484256328396644"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "1578263382424714",
+                               "name": "Place to Eat/Drink"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u6b63\u5340\u65b0\u751f\u5357\u8def\u4e00\u6bb560\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.0407295,
+             "longitude": 121.5325623
+             },
+             "name": "\u8001\u6a39\u5496\u5561",
+             "id": "177746075575228"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u65b0\u751f\u5357\u8def\u4e00\u6bb5161\u5df72-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.034216869881,
+             "longitude": 121.5331333844
+             },
+             "name": "\u6e5b\u76e7\u5496\u5561\u5927\u5b89\u624b\u6c96\u9928",
+             "id": "198722363498932"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4ec1\u611b\u8def345\u5df7\u56db\u5f0414\u865f\u4e00\u6a13(\u539f14\u865f\u5496\u5561\u9928)",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0388508,
+             "longitude": 121.5533066
+             },
+             "name": "\u5c71\u72d7\u5927\u5496\u5561\u9928",
+             "id": "1446594892306102"
+             },
+             {
+             "category": "Food/beverages",
+             "category_list": [
+                               {
+                               "id": "200019523363001",
+                               "name": "Food &amp; Beverage Service &amp; Distribution"
+                               },
+                               {
+                               "id": "182706848434579",
+                               "name": "Equipment Service &amp; Supply"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5340\u8fb2\u5b89\u8857164\u865f3\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.06469734,
+             "longitude": 121.5337613
+             },
+             "name": "\u767e\u61cb\u570b\u969b Cojaft Int'l Co., Ltd.",
+             "id": "418403378237746"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def\u4e8c\u6bb564\u5df74\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "100",
+             "latitude": 25.043340863708,
+             "longitude": 121.52876663888
+             },
+             "name": "Trio Bitters",
+             "id": "1385810898377616"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u677e\u5c71\u5340\u5357\u4eac\u6771\u8def\u4e09\u6bb5303\u5df78\u5f045\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.052905746,
+             "longitude": 121.547029332
+             },
+             "name": "Daylight \u5149\u5408\u7bb1\u5b50 \u00b7 \u53f0\u5317",
+             "id": "971727032837410"
+             },
+             {
+             "category": "Book store",
+             "category_list": [
+                               {
+                               "id": "197048876974331",
+                               "name": "Book Store"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u6c5f\u8def93\u5df72\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.05056,
+             "longitude": 121.5336227
+             },
+             "name": "93\u5df7\u4eba\u6587\u7a7a\u9593",
+             "id": "171214239575000"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u58fd\u8def11\u865f4\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.037421428349,
+             "longitude": 121.56705229704
+             },
+             "name": "Root's Cafe",
+             "id": "330178200401244"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u8208\u9686\u8def\u4e09\u6bb5112\u5df72\u5f0425\u865f",
+             "city": "Touyenkuei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "116",
+             "latitude": 24.999401587492,
+             "longitude": 121.55651508955
+             },
+             "name": "Five Senses Cafe",
+             "id": "1560025477544987"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4e2d\u5c71\u5317\u8def2\u6bb546\u5df7",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.055736245,
+             "longitude": 121.52177211834
+             },
+             "name": "\u8df3\u821e\u5496\u5561",
+             "id": "204124079702728"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5b89\u548c\u8def\u4e00\u6bb5137\u865f",
+             "city": "Panchiaochen",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0341396,
+             "longitude": 121.552681
+             },
+             "name": "Amber Cafe",
+             "id": "332084816994237"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5 201\u865f (1F-11\u6377\u904b\u5fe0\u5b5d\u6566\u53162\u865f\u51fa\u53e3,\u661f\u5df4\u514b\u8d70\u5eca\u5167)",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10690",
+             "latitude": 25.042063744741,
+             "longitude": 121.55131391598
+             },
+             "name": "Jack & Erik's",
+             "id": "578825258930261"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5ef6\u58fd\u8857139\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0570107,
+             "longitude": 121.5639801
+             },
+             "name": "\u5de6\u5148\u751f\u5496\u5561Dousun Cafe'",
+             "id": "118432424999650"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5553\u5df72\u5f045\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.0419807,
+             "longitude": 121.5630569
+             },
+             "name": "\u53f0\u5317\u4e00\u76f4\u662f\u6674\u5929",
+             "id": "163503170499899"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5149\u5fa9\u5357\u8def96\u5df712\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.043956739184,
+             "longitude": 121.55669048339
+             },
+             "name": "LOVE Caf\u00e9",
+             "id": "369929829729579"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "192661127431931",
+                               "name": "Wine Bar"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02 \u5927\u5b89\u5340 \u4fe1\u7fa9\u8def\u56db\u6bb5 307\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.033033762964,
+             "longitude": 121.55549112345
+             },
+             "name": "Digout",
+             "id": "1442902205933271"
+             },
+             {
+             "category": "Food/beverages",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "No.56, Ln. 300, Sec. 2, Bade Rd",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.045455773498,
+             "longitude": 121.54272538937
+             },
+             "name": "Balance Cafe",
+             "id": "111871378854336"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u6566\u5316\u5357\u8def\u4e8c\u6bb563\u5df713\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.03097180062,
+             "longitude": 121.54991052914
+             },
+             "name": "Cafe Doux \u6735\u723e\u81ea\u5bb6\u624b\u70d8\u5496\u5561\u5427",
+             "id": "857341327659922"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def4\u6bb5250\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041372910159,
+             "longitude": 121.55457646452
+             },
+             "name": "\u897f\u96c5\u5716\u6975\u54c1\u5496\u5561",
+             "id": "136128066451249"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.041332,
+             "longitude": 121.557745
+             },
+             "name": "\u55e8\u5496 haicafe",
+             "id": "931669570187678"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5149\u5fa9\u5317\u8def9\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.049313638553,
+             "longitude": 121.5578606051
+             },
+             "name": "\u738b\u54c1\u66fc\u5496\u5561",
+             "id": "214653238590217"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u4e09\u6bb5300\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0414696,
+             "longitude": 121.5432663
+             },
+             "name": "\u5fc3\u6674",
+             "id": "1679189892309057"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5927\u5b89\u8def\u4e00\u6bb592\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04565729,
+             "longitude": 121.53737672
+             },
+             "name": "\u5c71\u862d\u5c45 X \u521d\u8863\u98df\u5348\u3002",
+             "id": "212729275575331"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "198367566846946",
+                               "name": "Steakhouse"
+                               },
+                               {
+                               "id": "192108214153222",
+                               "name": "Breakfast &amp; Brunch Restaurant"
+                               },
+                               {
+                               "id": "168976549819329",
+                               "name": "French Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5149\u5fa9\u5357\u8def280\u5df750\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0399208,
+             "longitude": 121.5550995
+             },
+             "name": "\u570b\u738b\u9910\u5ef3 Krestaurant",
+             "id": "245407385511089"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6566\u5316\u5357\u8def1\u6bb5187\u5df755\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0426407,
+             "longitude": 121.5520782
+             },
+             "name": "Wachifield Dayan Cafe \u74e6\u5947\u83f2\u723e\u5fb7\u9054\u6d0b\u5496\u5561",
+             "id": "123541381137247"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5200\u865fB1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041444876193,
+             "longitude": 121.55179886278
+             },
+             "name": "\u4e0a\u5cf6\u5496\u5561\u5e97 \u660e\u66dc\u767e\u8ca8\u5e97",
+             "id": "172943119452788"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.039357596231,
+             "longitude": 121.54915116728
+             },
+             "name": "Eslite Caf\u00e9",
+             "id": "768278653202880"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "AnDong ST No18",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "104",
+             "latitude": 25.045491773721,
+             "longitude": 121.54211341636
+             },
+             "name": "Think cafe",
+             "id": "579248555442050"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04178144524,
+             "longitude": 121.54494686056
+             },
+             "name": "Melange Caf\u00e9 - Sogo \u5fe0\u5b5d\u9928",
+             "id": "332804573489896"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5112\u5df73\u5f0410\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.037405111634,
+             "longitude": 121.55017588288
+             },
+             "name": "Love'n\u6717\u6587\u5496\u5561",
+             "id": "373483599495270"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5927\u5b89\u8def\u4e00\u6bb551\u5df725\u865f",
+             "zip": "106",
+             "latitude": 25.043103395336,
+             "longitude": 121.54736746256
+             },
+             "name": "\u5c1a\u5496\u5561 (Sun Cafe)",
+             "id": "223649184405255"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u516b\u5fb7\u8def\u4e8c\u6bb5346\u5df77\u5f0442\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10552",
+             "latitude": 25.046706943793,
+             "longitude": 121.54595695305
+             },
+             "name": "\u6f02\u9ce5\u5496\u5561 - Wandervogel caf\u00e9",
+             "id": "380130932079578"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "200863816597800",
+                               "name": "Ice Cream Parlor"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fa9\u8208\u5357\u8def\u4e00\u6bb5107\u5df725-2\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.043583292,
+             "longitude": 121.545568405
+             },
+             "name": "Creme\u6cd5\u5f0f\u51b0\u6dc7\u6dcb\u5c08\u8ce3\u5e97",
+             "id": "883252825060289"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u4ec1\u611b\u8def\u56db\u6bb5449\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.037758556364,
+             "longitude": 121.55753078545
+             },
+             "name": "\u897f\u96c5\u5716\u6975\u54c1\u5496\u5561\u4ec1\u611b\u5149\u5fa9\u5e97-\u8c9d\u745e\u65af\u5854\u5e02\u96c6",
+             "id": "1586699961594757"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u975e\u6d32",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042188616528,
+             "longitude": 121.54506061362
+             },
+             "name": "SOGO UCC Cafe",
+             "id": "117982678279219"
+             },
+             {
+             "category": "Shopping/retail",
+             "category_list": [
+                               {
+                               "id": "200600219953504",
+                               "name": "Shopping &amp; Retail"
+                               },
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5181\u5df740\u5f044\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0438805,
+             "longitude": 121.5505371
+             },
+             "name": "ONE THI3D",
+             "id": "1503918703163229"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "1900",
+                               "name": "Restaurant/Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5216\u5df719\u5f046\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.040284331926,
+             "longitude": 121.55320428181
+             },
+             "name": "Kaya Kaya Caf\u00e9",
+             "id": "321025011384375"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5300\u5df726\u5f0431\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0360771,
+             "longitude": 121.5529565
+             },
+             "name": "\u5fa0\u4e00\u5496\u5561",
+             "id": "680973135282765"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u8def",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.044425676298,
+             "longitude": 121.54619510472
+             },
+             "name": "85\u2103\u5927\u5b89\u5fae\u98a8\u5e97",
+             "id": "272625969425834"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Xinbei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "251",
+             "latitude": 25.042573474656,
+             "longitude": 121.55348859596
+             },
+             "name": "\u660e\u592a\u98df\u5802 x Traveling Fun Cafe",
+             "id": "529987003790454"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5ef6\u5409\u8857153-10\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0400009,
+             "longitude": 121.5550308
+             },
+             "name": "\u6e5b\u76e7\u72c2\u8349\u5496\u5561\u5ef6\u5409\u5e97",
+             "id": "134634373327581"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.045871547876,
+             "longitude": 121.54466893443
+             },
+             "name": "\u5fae\u98a8\u5ee3\u58342F\u661f\u5df4\u514b",
+             "id": "205726116106595"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u7f85\u65af\u798f\u8def\u4e09\u6bb59\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0240803,
+             "longitude": 121.5249176
+             },
+             "name": "i -cafe'",
+             "id": "320025054717361"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5149\u5fa9\u5357\u8def240\u5df77\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0405693,
+             "longitude": 121.5571136
+             },
+             "name": "\u76f8\u601d\u674e\u820d",
+             "id": "205687452779322"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u5fa9\u8208\u5357\u8def\u4e00\u6bb539\u865fG\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.045849040896,
+             "longitude": 121.54454058156
+             },
+             "name": "Starbucks \u5fae\u98a8\u9580\u5e02",
+             "id": "135832843150271"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u5fa9\u8208\u5357\u8def\u4e00\u6bb539\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0461197,
+             "longitude": 121.5441208
+             },
+             "name": "\u5fae\u98a8\u5ee3\u5834 Agnes.B Cafe",
+             "id": "208472349196611"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb571\u5df711\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0387421,
+             "longitude": 121.5469742
+             },
+             "name": "\u4eab\u5496\u5561",
+             "id": "161392334060853"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.043061774462,
+             "longitude": 121.54519609894
+             },
+             "name": "\u7f8e\u597d\u6642\u4ee3",
+             "id": "334498610002313"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u4ec1\u611b\u8def\u56db\u6bb5300\u5df713-2\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0367603,
+             "longitude": 121.5545197
+             },
+             "name": "\u8def\u6613\u838e\u5496\u5561\u570b\u6cf0\u5e97",
+             "id": "702188769799509"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5ef6\u5409\u8857175\u865f\u4e00\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.038271,
+             "longitude": 121.5554504
+             },
+             "name": "Starbucks\u4ec1\u611b\u5ef6\u5409\u9580\u5e02",
+             "id": "561420147287868"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def3\u6bb5293\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041870461053,
+             "longitude": 121.54317833483
+             },
+             "name": "\u9b06\u9905\u738b\u5b50\u5fe0\u5b5d\u5e97",
+             "id": "558027580964791"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fa9\u8208\u5357\u8def\u4e00\u6bb5247\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.036933776003,
+             "longitude": 121.54389278098
+             },
+             "name": "\u4e39\u5824\u5496\u5561 \u5fa9\u8208\u4ec1\u611b\u5e97",
+             "id": "142138452522066"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5101\u5df739\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0431404,
+             "longitude": 121.5481873
+             },
+             "name": "Hana CAFE \u82f1\u5f0f\u4e0b\u5348\u8336",
+             "id": "128815113909798"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u6566\u5316\u5357\u8def\u4e00\u6bb5190\u5df716-1\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042624917912,
+             "longitude": 121.54771173141
+             },
+             "name": "Caldo Cafe \u4e8c\u5e97",
+             "id": "246051325595611"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5b89\u548c\u8def\u4e00\u6bb521\u5df79\u865f",
+             "city": "Panchiaochen",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "110",
+             "latitude": 25.0395298,
+             "longitude": 121.5504837
+             },
+             "name": "Longtimeago Caf\u00e9 \u6587\u5275\u4e92\u52d5\u5496\u5561\u9928",
+             "id": "361199510706551"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5ef6\u5409\u8857126\u5df710\u865f1F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0404315954,
+             "longitude": 121.554517122
+             },
+             "name": "\u6572\u6572\u5496\u5561 Knock Kafe",
+             "id": "739924639359285"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5201\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0416698,
+             "longitude": 121.5517731
+             },
+             "name": "Starbucks\u7d71\u9818\u5e97",
+             "id": "208169205864888"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6566\u5316\u5357\u8def\u4e00\u6bb5187\u5df745\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042593395472,
+             "longitude": 121.55144063557
+             },
+             "name": "TJB caf\u00e9 \u6566\u5357\u5e97",
+             "id": "586221304746285"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.048313532748,
+             "longitude": 121.55042076478
+             },
+             "name": "\u661f\u5df4\u514b \u53f0\u8996\u9580\u5e02",
+             "id": "1459709860974139"
+             },
+             {
+             "category": "Restaurant/cafe",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               },
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5ef6\u5409\u885772-16\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "10696",
+             "latitude": 25.042345659608,
+             "longitude": 121.5542514001
+             },
+             "name": "Dr.ICE Cafe",
+             "id": "1442214186041418"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "Dunhua South Road Section 1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042376602792,
+             "longitude": 121.54517810206
+             },
+             "name": "Sogo \u7c73\u6717\u742a",
+             "id": "151378225036139"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "194588013912896",
+                               "name": "Dim Sum Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5201\u865f2F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0416698,
+             "longitude": 121.5517731
+             },
+             "name": "\u6771\u5340\u7cd6\u671d\u6e2f\u5f0f\u98f2\u8336",
+             "id": "247925555225194"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041521965854,
+             "longitude": 121.54344530455
+             },
+             "name": "\u661f\u5df4\u514bsogo\u5fa9\u8208\u9928\u9580\u5e02",
+             "id": "197270646983522"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5216\u5df733\u5f0419\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0394497,
+             "longitude": 121.5540009
+             },
+             "name": "Emperor love tea boutique",
+             "id": "169888196395165"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u4e09\u6bb5300\u865f10\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0414696,
+             "longitude": 121.5432663
+             },
+             "name": "\u963f\u746a\u8fea\u65af\u5496\u5561\u9928(sogo\u5fa9\u8208\u9928\uff09",
+             "id": "143353072398130"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041493089508,
+             "longitude": 121.54356609775
+             },
+             "name": "\u5fe0\u5b5d\u5fa9\u8208SOGO Starbucks",
+             "id": "166413566744858"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "2500",
+                               "name": "Local Business"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def4\u6bb5205\u5df77\u5f043\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042113754468,
+             "longitude": 121.55191309738
+             },
+             "name": "Live Corner TPED.TW",
+             "id": "1397038250554469"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5248\u5df73\u865f1\u6a13",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.040851128589,
+             "longitude": 121.55403638262
+             },
+             "name": "Dazzing Cafe2",
+             "id": "202308053137373"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u516b\u5fb7\u8def\u53f0\u8996\u65c1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.048255235981,
+             "longitude": 121.54996067918
+             },
+             "name": "\u4f2f\u6717\u5496\u5561\u9928\u516b\u5fb7\u5e97",
+             "id": "210388975653311"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u677e\u5c71\u5340\u516b\u5fb7\u8def\u4e09\u6bb510\u865f(\u53f0\u8996\u96fb\u8996\u516c\u53f8\u65c1)",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "105",
+             "latitude": 25.0480595,
+             "longitude": 121.5503387
+             },
+             "name": "STARBUCKS (\u53f0\u8996\u9580\u5e02)",
+             "id": "172317226150572"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "110290705711626",
+                               "name": "Bar"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5ef6\u5409\u8857131\u5df726\u865fB1 No.26,Ln.131,Yanji St.,Daan Dist.",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042797479925,
+             "longitude": 121.55560555089
+             },
+             "name": "Little London",
+             "id": "527623100608045"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5169\u5df78\u865f1\u6a13k\u5ba4",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.043186521479,
+             "longitude": 121.54949976657
+             },
+             "name": "Nius Cafe \u599e\u5496\u5561",
+             "id": "236913779853258"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u6771\u5340\u5730\u4e0b\u8857",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041489591529,
+             "longitude": 121.55114365397
+             },
+             "name": "Metropoli Kaffe",
+             "id": "1417787115158772"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.039568534237,
+             "longitude": 121.54962741585
+             },
+             "name": "cama\u5fe0\u5b5d\u6566\u5316\u5e97",
+             "id": "361834360593915"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.042129894742,
+             "longitude": 121.54857141908
+             },
+             "name": "\uff1f",
+             "id": "124869844327526"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041087152765,
+             "longitude": 121.54801113292
+             },
+             "name": "Barlie Cafe",
+             "id": "528190823888300"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "",
+             "latitude": 25.0417254371,
+             "longitude": 121.549349429
+             },
+             "name": "\u5bc6\u7cd6\u5410\u53f8",
+             "id": "483816861661059"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u5fe0\u5b5d\u6771\u8def\u56db\u6bb5146\u5df73\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0410194,
+             "longitude": 121.5497208
+             },
+             "name": "\u65e5\u5149\u5bd2\u820d",
+             "id": "177809858930630"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041137843601,
+             "longitude": 121.54799242329
+             },
+             "name": "Babie  Cafe'",
+             "id": "478097108911481"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "273819889375819",
+                               "name": "Restaurant"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u4fe1\u7fa9\u5340\u677e\u5c71\u8def304\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "11061",
+             "latitude": 25.040332794189,
+             "longitude": 121.54936981201
+             },
+             "name": "Stone Espresso Bar",
+             "id": "628032877306572"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5245\u865fB2",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.039812105,
+             "longitude": 121.549136525
+             },
+             "name": "Blackpages Cafe \u6566\u5357\u97f3\u6a02\u9928\u5e97",
+             "id": "1383947301856569"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u5927\u5b89\u5340\u6566\u5316\u5357\u8def\u4e00\u6bb5245\u865fB1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.039648053341,
+             "longitude": 121.54925689534
+             },
+             "name": "In Joy Chocolate \u6566\u5357\u5e97",
+             "id": "501502989949706"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "1578263382424714",
+                               "name": "Place to Eat/Drink"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u4e2d",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.04308097219,
+             "longitude": 121.54762910434
+             },
+             "name": "Murano\u83ab\u62c9\u8afe\u7cbe\u54c1\u5496\u5561",
+             "id": "194931093859063"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u57fa\u9686\u8def\u4e8c\u6bb5190\u865f\u4e4b1",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0240898,
+             "longitude": 121.5519791
+             },
+             "name": "B Cafe",
+             "id": "137755302961677"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6566\u5316\u5357\u8def1\u6bb5238\u5df71\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0402393,
+             "longitude": 121.5479813
+             },
+             "name": "Elephant Cafe\u5927\u8c61\u5713\u5713\u5496\u5561\u9928",
+             "id": "177684202267641"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u6566\u5316\u5357\u8def\u4e00\u6bb5233\u5df7",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.040941434254,
+             "longitude": 121.54914987243
+             },
+             "name": "\u8001\u5496\u5561\u9928",
+             "id": "453307451431014"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0402557,
+             "longitude": 121.550709
+             },
+             "name": "\u7e8c\u5496\u5561\u3008\u4e0b\u5348\u8336\u3009",
+             "id": "259328504180140"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u53f0\u5317\u5e02\u6566\u5316\u5357\u8def\u4e00\u6bb5187\u5df723\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.034752060083,
+             "longitude": 121.55259156306
+             },
+             "name": "Somma",
+             "id": "143939659064929"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "197871390225897",
+                               "name": "Cafe"
+                               }
+                               ],
+             "location": {
+             "street": "",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041362300298,
+             "longitude": 121.55035005145
+             },
+             "name": "Picco Cafe",
+             "id": "383347285094042"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "No. 45, Sec. 4, Jhongsiao East Road B2F",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.043144,
+             "longitude": 121.549699
+             },
+             "name": "Starbucks - BR4 SOGO",
+             "id": "1624204797807699"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "Zhongxiao East Road Section 4",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041598512702,
+             "longitude": 121.54760988096
+             },
+             "name": "\u4e39\u5824\u5496\u5561",
+             "id": "530365597023259"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "192661127431931",
+                               "name": "Wine Bar"
+                               }
+                               ],
+             "location": {
+             "street": "Zhongxiao East Road Section 4 Lane 181 Alley 7",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.041946893231,
+             "longitude": 121.55104369614
+             },
+             "name": "E .181",
+             "id": "239095339573403"
+             },
+             {
+             "category": "Local business",
+             "category_list": [
+                               {
+                               "id": "128673187201735",
+                               "name": "Coffee Shop"
+                               }
+                               ],
+             "location": {
+             "street": "\u5927\u5b89\u8def\u4e00\u6bb551\u5df738\u865f",
+             "city": "Taipei",
+             "state": "",
+             "country": "Taiwan",
+             "zip": "106",
+             "latitude": 25.0429802,
+             "longitude": 121.5476303
+             },
+             "name": "\u83ab\u62c9\u8afe\u7cbe\u54c1\u5496\u5561\u5e97",
+             "id": "219969791353136"
+             }
+             ],
+    "paging": {
+        "next": "https://graph.facebook.com/v2.0/search?type=place&q=coffee&center=25.042004,121.548745&distance=5000&access_token=xxx&limit=5000&offset=5000&__after_id=enc_AdB9ESkQDBy30o2XEp3qs1Am5JWuGJpxnQw9Sw9guMfDyxlA5ZBWbgOscu74o9z4QLLETCQVWR3Mv3V3UR6oc6Izs"
+    }
+}
