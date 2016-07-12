@@ -11,6 +11,16 @@
     	"url": "https://www.atlassian.com/"
 	},
     "capabilities": {
+    		"dialog": [
+   		{
+            "title": { 
+         		"value": "My Dialog"
+      		},
+      		"key": "sample-dialog",
+      		"options": {},
+      		"url": "https://salagadoola.github.io/dialog.json"
+   		}
+	],
         "hipchatApiConsumer": {
             "fromName": "Sample Add-on",
             "scopes": [
