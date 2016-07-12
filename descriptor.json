@@ -1,0 +1,17 @@
+{
+  "name": "ray integration",
+  "description": "(my description)",
+  "key": "io.github.salagadoola",
+  "links": {
+    "self": "http://salagadoola.github.io/rayintegration/capabilities"
+  },
+  "capabilities": {
+    "dialog": [{
+      "key": "myaddon-dialog",
+      "title": {
+        "value": "An add-on dialog title"
+      },
+    	"url": "{{localBaseUrl}}/dialog"
+    }]
+  }
+}
