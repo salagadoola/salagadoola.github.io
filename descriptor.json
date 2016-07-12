@@ -1,17 +1,26 @@
 {
-  "name": "ray integration",
-  "description": "(my description)",
-  "key": "io.github.salagadoola",
-  "links": {
-    "self": "http://salagadoola.github.io/rayintegration/capabilities"
-  },
-  "capabilities": {
-    "dialog": [{
-      "key": "myaddon-dialog",
-      "title": {
-        "value": "An add-on dialog title"
-      },
-    	"url": "{{localBaseUrl}}/dialog"
-    }]
-  }
+	"name": "Sample Addon",
+	"description": "Sample HipChat Addon",
+	"key": "sample-hipchat-addon",
+	"links": {
+    	"homepage": "https://salagadoola.github.io/",
+    	"self": "https://salagadoola.github.io/descriptor.json"
+	},
+	"vendor": {
+    	"name": "Atlassian",
+    	"url": "https://www.atlassian.com/"
+	},
+    "capabilities": {
+        "hipchatApiConsumer": {
+            "fromName": "Sample Add-on",
+            "scopes": [
+                "send_notification"
+            ]
+        },
+		"installable": {
+    		"allowGlobal": false,
+        	"allowRoom": true,
+        	"callbackUrl": "https://salagadoola.github.io/empty"
+    	}
+	}
 }
